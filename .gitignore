@@ -1,3 +1,11 @@
+# Arquivos sensíveis
+config/secrets.yaml
+config/secrets.json
+.env
+
+# Diretórios sensíveis
+secrets/
+
 # Local .terraform directories
 **/.terraform/*
 
